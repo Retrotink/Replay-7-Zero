@@ -1,4 +1,7 @@
 # Replay 7-Zero Build Instructions<br>
+When we assemble a pcb, best practice is lowest profile part first<br>
+Followed by the next taller part<br>
+This ensures a simple build procedure and you aren't fighting keeping parts down flush<br>
 Place printed circuit board (PCB) on your table space<br>
 Heat iron to correct temp<br>
 Tin your iron by applying a small amount of solder directly to the iron<br>
