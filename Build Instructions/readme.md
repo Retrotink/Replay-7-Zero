@@ -92,4 +92,23 @@ Push the LED flush onto the pcb, then bend the pins slightly apart to hold the L
 NOTE: Make sure the LED is straight and flush so it will all fit in the case correctly<br>
 Turn the pcb over and solder both pins down and trim the extra length off<br>
 Inspect the LED to ensure it is flush and straight as possible<br>
+### VOLTAGE TEST (requires volt meter)<br>
+TEST 1<br>
+At this point you can connect the battery to the Replay-7-Zero board and make sure nothing is underneath<br>
+You can plug in a USB charger and see if the red light comes on on the charger. If not, turn off circuit board, check your work<br> 
+TEST 2<br>
+For this test, you can unplug the USB charger, then power on the Replay-7-Zero board<br>
+The LED should be visible on the bottom side. If so, proceed to the next step<br>
+TEST 3<br>
+With your volt meter, test that voltage is between 4.7-5.1 volts. If it is within that range, power off, disconnect battery and continue build<br?
+If it is lower than 4.7V, with a small flat blade screw driver, turn the screw on the DC controller counter clock wise, just a very little bit and test voltage. Try and get it slightly up to between 4.7V and no more than 5.05V.<br>
+If it is higher than 5.1V, turn the screw on the DC controller clock wise, say from 1 oclock to 2 oclock and test voltage again to get it between the acceptable value.<br>
+Once the DC voltage is set correctly, turn off the pcb, disconnect that battery.<br>
+It is recommended that you put something like a drop of finger nail polish on the screw to keep it from turning. Do not use glue!<br>
+### Tactile switches (back side)<br>
+There are 3 tactile switches that mount on the back side of the board. When you put them in the pcb, you can close the pins together some so it holds onto the pcb better.<br>
+Turn the board over and solder one pin, then check to make sure button is flush<br>
+solder the remaining pins and repeat for the other 2 buttons<br>
+### Raspberry Pi Zero 2w (rpi)<br>
+
 
