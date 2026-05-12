@@ -108,7 +108,16 @@ It is recommended that you put something like a drop of finger nail polish on th
 ### Tactile switches (back side)<br>
 There are 3 tactile switches that mount on the back side of the board. When you put them in the pcb, you can close the pins together some so it holds onto the pcb better.<br>
 Turn the board over and solder one pin, then check to make sure button is flush<br>
-solder the remaining pins and repeat for the other 2 buttons<br>
+Solder the remaining pins and repeat for the other 2 buttons<br>
+Turn the board over and continue to next step
 ### Raspberry Pi Zero 2w (rpi)<br>
+Place the Raspberry Pi (rpi) onto the pcb with the SD card slot closest to the edge and the chips facing up<br>
+place the mid frame brace under the rpi to help support it from sagging<br>
+<br>
+OPTIONAL: While holding the rpi down, cut the extra length from the top of the pins leaving only a little on top to solder to<br>
+<br>
+While holding the rpi down flush onto the connector, solder 1 pin down on the corner<br>
+Check to make sure the rpi is still flush and level and solder another corner down, check again<br>
+Now solder all the remaining pins and check your work so no extra solder flowed onto the rpi<br>
 
 
