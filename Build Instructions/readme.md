@@ -63,4 +63,11 @@ Turn pcb over and verify it is flush with pcb. It may be a little skewed, that i
 Turn back over and quickly solder the 2nd pin down<br>
 Verify the connector is good, then repeat for Battery and LCD Power<br>
 ## Power Switch<br>
+Place the Large slide switch into the pcb so the post sticks out away from the pcb<br>
+Turn the pcb over and lay flat on the work table<br>
+Solder one pin on the switch, then turn over pcb and inspect the switch is flush still with pcb<br>
+Solder the remaining pins down and inspect the switch<br>
+NOTE: Make sure it is in the OFF position for testing pcb later<br>
+## 40 pin header for RPI Zero 2<br>
+Place the 40 pin header flush onto the pcb with the longer pins pointing up<br>
 
