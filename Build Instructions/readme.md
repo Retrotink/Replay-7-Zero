@@ -18,5 +18,26 @@ Place on table making sure resistor is flush with the pcb<br>
 Solder each post and hole so that solder flows to hold and pin but does not make a ball of solder<br>
 After both posts are soldered, trim the excess leads with wire cutters<br>
 ### USB Battery Charger<br>
-
+To solder the USB charger, it is best to slightly prop up the pcb off your work table<br>
+This will insure that the stand off pins sit straight when soldering down<br>
+There are 6 stand off pins that need to go into the pcb, there may be 2 sets of 2<br>
+Place them in the pcb where the USB will mount with the longer end facing up<br>
+Now place the USB Charger board onto the pins so all 6 pins come through the USB board<br>
+The USB Charger should now be resting on the black stand-off of the pins<br>
+Solder all 6 pins onto the USB board and trim the excess off<br>
+While holding the USB Charger, turn the pcb over and place on work table<br>
+You no longer need the stands to lift the pcb. Be sure the USB board is flush to pcb<br>
+Solder one pin to the pcb then flip over and check that the USB is still flush with pcb<br>
+Note: If not, you can heat that pin up and push the pcb down<br>
+Now solder the remaining pins of the USB Charger<br>
+## Audio Amp<br>
+Once again, prop up the pcb off the table slightly so the pins can float straight when installed<br>
+Place the 7 pin header in the pcb so the longer pins are facing up<br>
+Place 2 single posts into the other end of the pcb for the amp<br>
+Place the amp carefully on top of the pins and header so the amp pcb is flush with the stand offs<br>
+solder both single pins and the header pins down<br>
+While holding the amp, turn the board over and place on work table with the amp sitting flush to the pcb<br>
+Solder any one pin down and turn the board over to verify the amp is straight and flush<br>
+Turn back over and solder the remaining pins<br>
+## DC power converter<br>
 
