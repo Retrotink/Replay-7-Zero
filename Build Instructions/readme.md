@@ -1,6 +1,6 @@
 # Replay 7-Zero Build Instructions<br>
-When we assemble a pcb, best practice is lowest profile part first, followed by the next taller part<br>
-Continue this policy throughout the build, for a simple way to properly assemble your kit<br>
+When we assemble a pcb, best practice is shortest height part first, followed by the next taller part<br>
+Continue this process through the entire build<br>
 This ensures a simple build procedure and you aren't fighting keeping parts down flush<br>
 Place printed circuit board (PCB) on your table space<br>
 Heat iron to correct temp<br>
