@@ -33,7 +33,7 @@ You no longer need the stands to lift the pcb. Be sure the USB board is flush to
 Solder one pin to the pcb then flip over and check that the USB is still flush with pcb<br>
 Note: If not, you can heat that pin up and push the pcb down<br>
 Now solder the remaining pins of the USB Charger<br>
-## Audio Amp<br>
+### Audio Amp<br>
 Once again, prop up the pcb off the table slightly so the pins can float straight when installed<br>
 Place the 7 pin header in the pcb so the longer pins are facing up<br>
 Place 2 single posts into the other end of the pcb for the amp<br>
@@ -42,7 +42,7 @@ solder both single pins and the header pins down<br>
 While holding the amp, turn the board over and place on work table with the amp sitting flush to the pcb<br>
 Solder any one pin down and turn the board over to verify the amp is straight and flush<br>
 Turn back over and solder the remaining pins<br>
-## DC power converter<br>
+### DC power converter<br>
 Prop the pcb off your work table again and place 4 stand off posts (tall side up) in the holes for the DC power converter<br>
 Place the DC converter onto the posts<br>
 WARNING: Verify that the direction VIN/VOUT is correct! See PCB markings and DC board markings<br>
@@ -51,13 +51,13 @@ Solder all for posts down, then while holding the DC converter, turn the pcb ove
 WARNING: Once again, verify that the direction VIN/VOUT is correct!<br>
 Solder one pin down, then turn over and verify the DC converter is flat with only a space for the posts<br>
 Turn back over and solder the other 3 posts<br>
-## Left/Right game buttons<br>
+### Left/Right game buttons<br>
 There are 2 right angle tactile buttons used for Left and Right select control<br>
 Place one in the upper corner space and turn the pcb over and lay flat on work table<br>
 Solder one of the pins and turn over and double check that the button is flush with pcb<br>
 Turn back over and solder the remaining pins<br>
 Repeat this for the other button<br>
-## Power and speaker connectors<br>
+### Power and speaker connectors<br>
 There are 3 small white 2mm connectors that must be installed in the correct orientation<br>
 Look at pcb part outline and notice the notch and how it matches the connector notch<br>
 Place one in the speaker spot and while holding, turn over and carefully set pcb down so that connector is held in place<br>
@@ -65,12 +65,31 @@ Quickly solder one pin down. If you take too long, you will melt the connector<b
 Turn pcb over and verify it is flush with pcb. It may be a little skewed, that is ok.<br>
 Turn back over and quickly solder the 2nd pin down<br>
 Verify the connector is good, then repeat for Battery and LCD Power<br>
-## Power Switch<br>
+### Power Switch<br>
 Place the Large slide switch into the pcb so the post sticks out away from the pcb<br>
 Turn the pcb over and lay flat on the work table<br>
 Solder one pin on the switch, then turn over pcb and inspect the switch is flush still with pcb<br>
 Solder the remaining pins down and inspect the switch<br>
 NOTE: Make sure it is in the OFF position for testing pcb later<br>
-## 40 pin header for RPI Zero 2<br>
+### 40 pin header for RPI Zero 2<br>
 Place the 40 pin header flush onto the pcb with the longer pins pointing up<br>
+While holding the header to the pcb, turn the pcb over and lay onto your work table<br>
+Solder one corner pin down to the pcb and then turn over and inspect that the header is flush to pcb<br>
+Turn back over and continue soldering the other pins.<br>
+NOTE: I like to solder one side, turn the board 180 degrees around and solder the other row<br>
+Inspect your part before continuing on<br>
+### 1500uF Capacitor<br>
+The large capacitor is polarized meaning there is a positive + and a negative - pin<br>
+The positive will be slightly longer, but the negative will have a - on the side of the case<br>
+Place the capacitor into the holes of the pcb, then fold it over so it is laying down within the pcb drawing<br>
+WARNING: Make sure you have the capacitor installed correctly before soldering down. If reversed, it could pop when powered up<br>
+Turn the pcb over and solder the pins down and cut the extra length off<br>
+### LED power light<br>
+The LED is soldered on the bottom of the pcb along with 3 tactile buttons<br>
+The anode is the + and is longer in length making it easy to identify<br>
+Push the anode pin into the hole followed by the shorter cathode pin<br>
+Push the LED flush onto the pcb, then bend the pins slightly apart to hold the LED in place<br>
+NOTE: Make sure the LED is straight and flush so it will all fit in the case correctly<br>
+Turn the pcb over and solder both pins down and trim the extra length off<br>
+Inspect the LED to ensure it is flush and straight as possible<br>
 
