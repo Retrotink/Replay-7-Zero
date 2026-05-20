@@ -133,7 +133,13 @@ Repeat this for the other button<br>
 There are 3 small white 2mm connectors that must be installed in the correct orientation<br>
 Look at pcb part outline and notice the notch and how it matches the connector notch<br>
 WARNING: Verify the orientation of the connector matches the pcb drawing. If the part is soldered wrong, you could damage your Replay-7-Zero<br>
-Place one in the speaker spot and while holding, turn over and carefully set pcb down so that connector is held in place<br>
+
+
+
+Place one in one of the 3 locations and while holding, turn over and carefully set pcb down so that connector is held in place<br>
+
+<img width="2812" height="2404" alt="20260520_095900" src="https://github.com/user-attachments/assets/db3340c8-291e-4f54-a198-d5673202bd1a" />
+
 Quickly solder one pin down. If you take too long, you will melt the connector<br>
 Turn pcb over and verify it is flush with pcb. It may be a little skewed, that is ok.<br>
 Turn back over and quickly solder the 2nd pin down<br>
