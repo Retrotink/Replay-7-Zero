@@ -106,18 +106,31 @@ Place the DC converter onto the posts<br>
 WARNING: Verify that the direction VIN/VOUT is correct! See PCB markings and DC board markings<br>
 Make sure it is as straight as possible resting on the black spacers<br>
 Solder all for posts down, then while holding the DC converter, turn the pcb over and place down on the work table<br>
+
+<img width="972" height="2022" alt="20260520_093904" src="https://github.com/user-attachments/assets/00b1d526-7f4a-474b-bdb1-f0bc0af07ffd" />
+
+
 WARNING: Once again, verify that the direction VIN/VOUT is correct!<br>
 Solder one pin down, then turn over and verify the DC converter is flat with only a space for the posts<br>
 Turn back over and solder the other 3 posts<br>
+
+<img width="1298" height="1314" alt="20260520_095140" src="https://github.com/user-attachments/assets/618c8799-e5d7-4dbd-8e80-b2a089805be7" />
+
+
 ### Left/Right game buttons<br>
 There are 2 right angle tactile buttons used for Left and Right select control<br>
 Place one in the upper corner space and turn the pcb over and lay flat on work table<br>
 Solder one of the pins and turn over and double check that the button is flush with pcb<br>
 Turn back over and solder the remaining pins<br>
 Repeat this for the other button<br>
-### Power and speaker connectors<br>
+### LCD Power, Battery and speaker connectors<br>
+
+<img width="1176" height="900" alt="20260520_095814" src="https://github.com/user-attachments/assets/abb19d2b-eed4-4484-a1de-2b769facf4b3" />
+
+
 There are 3 small white 2mm connectors that must be installed in the correct orientation<br>
 Look at pcb part outline and notice the notch and how it matches the connector notch<br>
+WARNING: Verify the orientation of the connector matches the pcb drawing. If the part is soldered wrong, you could damage your Replay-7-Zero<br>
 Place one in the speaker spot and while holding, turn over and carefully set pcb down so that connector is held in place<br>
 Quickly solder one pin down. If you take too long, you will melt the connector<br>
 Turn pcb over and verify it is flush with pcb. It may be a little skewed, that is ok.<br>
