@@ -163,7 +163,7 @@ The positive will be slightly longer, but the negative will have a - on the side
 Place the capacitor into the holes of the pcb, then fold it over so it is laying down within the pcb drawing<br>
 WARNING: Make sure you have the capacitor installed correctly before soldering down. If reversed, it could pop when powered up<br>
 Turn the pcb over and solder the pins down and cut the extra length off<br>
-### LED power light<br>
+### LED power light (Back side of PCB)<br>
 The LED is soldered on the bottom of the pcb along with 3 tactile buttons<br>
 The anode is the + and is longer in length making it easy to identify<br>
 Push the anode pin into the hole followed by the shorter cathode pin<br>
