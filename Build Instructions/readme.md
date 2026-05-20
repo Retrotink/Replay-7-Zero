@@ -66,15 +66,41 @@ Now solder the remaining pins of the USB Charger<br>
 
 
 ### Audio Amp<br>
+
+<img width="1848" height="2456" alt="20260520_093127" src="https://github.com/user-attachments/assets/a11d836c-6b17-4f03-8737-8f0a242c4bb8" />
+
+
 Once again, prop up the pcb off the table slightly so the pins can float straight when installed<br>
 Place the 7 pin header in the pcb so the longer pins are facing up<br>
 Place 2 single posts into the other end of the pcb for the amp<br>
+
+<img width="1060" height="1160" alt="20260520_093236" src="https://github.com/user-attachments/assets/364a14fc-0fb5-4418-8892-f5bb403ecdf8" />
+
+
 Place the amp carefully on top of the pins and header so the amp pcb is flush with the stand offs<br>
-solder both single pins and the header pins down<br>
+
+<img width="1118" height="1238" alt="20260520_093318" src="https://github.com/user-attachments/assets/cceb88ae-2810-4cd7-a614-15f817a01455" />
+
+
+solder both single pins and the header pins down. Trim extra lead off of pins<br>
+
+<img width="1170" height="1070" alt="20260520_093447" src="https://github.com/user-attachments/assets/77ebcab6-c4cd-4539-83c9-90acf36bc5f3" />
+
+<img width="1506" height="1178" alt="20260520_093535" src="https://github.com/user-attachments/assets/fb27bfe9-101f-474b-a5d9-66dd9ba15b15" />
+
+
 While holding the amp, turn the board over and place on work table with the amp sitting flush to the pcb<br>
 Solder any one pin down and turn the board over to verify the amp is straight and flush<br>
 Turn back over and solder the remaining pins<br>
+
+<img width="1848" height="4000" alt="20260520_093723" src="https://github.com/user-attachments/assets/433909d5-3621-4c8c-96c8-18deb1ac6f7d" />
+
+
 ### DC power converter<br>
+
+<img width="1476" height="1542" alt="20260520_093839" src="https://github.com/user-attachments/assets/e2c75e33-885e-4198-84c8-eca13e94e6cf" />
+
+
 Prop the pcb off your work table again and place 4 stand off posts (tall side up) in the holes for the DC power converter<br>
 Place the DC converter onto the posts<br>
 WARNING: Verify that the direction VIN/VOUT is correct! See PCB markings and DC board markings<br>
