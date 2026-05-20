@@ -9,6 +9,10 @@ Clean tip, leaving just a light coating of solder on iron tip<br>
 ### Speaker wire connector<br>
 The speaker comes with wire we do not use<br>
 Using a utility knife or flat blade screwdriver, scrape covering of the connector<br>
+
+<img width="610" height="344" alt="image" src="https://github.com/user-attachments/assets/958e23df-e27e-4931-9dc5-adfae2cf2e74" />
+
+
 Apply a iron to the exposed wire connector and tab and remove both wires<br>
 Solder new speaker wire connector to the speaker<br>
 Red wire goes to + side and black wire goes to - side<br>
