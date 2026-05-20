@@ -33,18 +33,38 @@ After both posts are soldered, trim the excess leads with wire cutters<br>
 
 
 ### USB Battery Charger<br>
+
+<img width="1424" height="1312" alt="20260520_094514" src="https://github.com/user-attachments/assets/57df653a-d516-4476-893b-f4a5c3213236" />
+
+
 To solder the USB charger, it is best to slightly prop up the pcb off your work table<br>
 This will insure that the stand off pins sit straight when soldering down<br>
-There are 6 stand off pins that need to go into the pcb, there may be 2 sets of 2<br>
+There are 6 stand off pins that need to go into the pcb, there should be 2 sets of 2<br>
 Place them in the pcb where the USB will mount with the longer end facing up<br>
+
+<img width="966" height="1252" alt="20260520_094624" src="https://github.com/user-attachments/assets/35409f30-5e90-4f03-b21d-a116975b2e40" />
+
+
 Now place the USB Charger board onto the pins so all 6 pins come through the USB board<br>
+
+<img width="1274" height="1658" alt="20260520_094822" src="https://github.com/user-attachments/assets/e334adf2-a49c-4220-8959-12ba2cf04d27" />
+
+
 The USB Charger should now be resting on the black stand-off of the pins<br>
 Solder all 6 pins onto the USB board and trim the excess off<br>
+
+<img width="1344" height="1618" alt="20260520_094935" src="https://github.com/user-attachments/assets/a05a2d4d-cdbc-4e5b-9dc9-c580e2993ea8" />
+
+
 While holding the USB Charger, turn the pcb over and place on work table<br>
-You no longer need the stands to lift the pcb. Be sure the USB board is flush to pcb<br>
+You no longer need prop up the pcb off the table. Be sure the USB board is flush to pcb<br>
 Solder one pin to the pcb then flip over and check that the USB is still flush with pcb<br>
 Note: If not, you can heat that pin up and push the pcb down<br>
 Now solder the remaining pins of the USB Charger<br>
+
+<img width="1298" height="1314" alt="20260520_095140" src="https://github.com/user-attachments/assets/041a1729-8c3a-481d-9002-cf4e34c05a29" />
+
+
 ### Audio Amp<br>
 Once again, prop up the pcb off the table slightly so the pins can float straight when installed<br>
 Place the 7 pin header in the pcb so the longer pins are facing up<br>
