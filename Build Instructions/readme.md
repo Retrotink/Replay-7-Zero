@@ -13,13 +13,25 @@ Apply a iron to the exposed wire connector and tab and remove both wires<br>
 Solder new speaker wire connector to the speaker<br>
 Red wire goes to + side and black wire goes to - side<br>
 ### Resistor<br>
-Make 2 U shaped bends to the resistor close to the body of the resistor<br>
+
+<img width="2564" height="3680" alt="20260520_092301" src="https://github.com/user-attachments/assets/e512aa12-05a0-428b-bc3a-b30985c3027d" />
+
+
+Make U shaped bend to the resistor close to the body of the resistor<br>
 Place the resistor into the 2 holes of the pcb where labeled<br>
 Make sure the resistor is flush with the pcb<br>
 While holding the resistor to the pcb, turn over and bend the tabs away from each other<br>
+
+<img width="1784" height="882" alt="20260520_092337" src="https://github.com/user-attachments/assets/cf8d9d5c-feb2-4357-95f2-e52ffb67ebb6" />
+
+
 Place on table making sure resistor is flush with the pcb<br>
 Solder each post and hole so that solder flows to hold and pin but does not make a ball of solder<br>
 After both posts are soldered, trim the excess leads with wire cutters<br>
+
+<img width="4572" height="2596" alt="20260520_093002" src="https://github.com/user-attachments/assets/e8b7c474-e3c7-43ff-a0f6-cee7971f7743" />
+
+
 ### USB Battery Charger<br>
 To solder the USB charger, it is best to slightly prop up the pcb off your work table<br>
 This will insure that the stand off pins sit straight when soldering down<br>
