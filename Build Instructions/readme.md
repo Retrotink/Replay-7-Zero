@@ -14,8 +14,16 @@ Using a utility knife or flat blade screwdriver, scrape covering of the connecto
 
 
 Apply a iron to the exposed wire connector and tab and remove both wires<br>
+
+<img width="684" height="340" alt="image" src="https://github.com/user-attachments/assets/f9b4ff1a-1968-4e45-bdcd-09b58549b256" />
+
+
 Solder new speaker wire connector to the speaker<br>
 Red wire goes to + side and black wire goes to - side<br>
+
+<img width="676" height="320" alt="image" src="https://github.com/user-attachments/assets/9d04a158-f3d4-4ca3-88e0-72f64e3cfc43" />
+
+
 ### Resistor<br>
 
 <img width="2564" height="3680" alt="20260520_092301" src="https://github.com/user-attachments/assets/e512aa12-05a0-428b-bc3a-b30985c3027d" />
