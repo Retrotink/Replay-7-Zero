@@ -110,11 +110,13 @@ Solder all for posts down, then while holding the DC converter, turn the pcb ove
 <img width="972" height="2022" alt="20260520_093904" src="https://github.com/user-attachments/assets/00b1d526-7f4a-474b-bdb1-f0bc0af07ffd" />
 
 
+
+
 WARNING: Once again, verify that the direction VIN/VOUT is correct!<br>
 Solder one pin down, then turn over and verify the DC converter is flat with only a space for the posts<br>
 Turn back over and solder the other 3 posts<br>
 
-<img width="1298" height="1314" alt="20260520_095140" src="https://github.com/user-attachments/assets/618c8799-e5d7-4dbd-8e80-b2a089805be7" />
+<img width="1304" height="1866" alt="20260520_094025" src="https://github.com/user-attachments/assets/a0ca821a-6ccd-4224-ad08-6267cedc86d6" />
 
 
 ### Left/Right game buttons<br>
