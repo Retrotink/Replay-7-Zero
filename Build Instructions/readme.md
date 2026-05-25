@@ -19,6 +19,7 @@ Case front, mid-frame and back cover plate<br>
 1 Raspberry Pi Zero 2w single board computer<br>
 1 LCD Driver board<br>
 2 Wire connectors with 2mm white connector on end<br>
+3 small white 2 pin male 2mm headers for wire connectors and battery<br>
 1 Speaker<br>
 2 Right angle tactile buttons with red tips for Left/Right buttons<br>
 1 100ohm resistor<br>
