@@ -1,4 +1,10 @@
 # Replay 7-Zero Build Instructions<br>
+Estimated build time: 1-3 hours depending on soldering experience<br>
+
+### PARTS LISTING<br>
+
+
+### Short note about best practice soldering a Printed Circuit board<br>
 When we assemble a pcb, best practice is shortest height part first, followed by the next taller part<br>
 Continue this process through the entire build<br>
 This ensures a simple build procedure and you aren't fighting keeping parts down flush<br>
