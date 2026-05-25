@@ -16,6 +16,25 @@ Case front, mid-frame and back cover plate<br>
 3 smaller black plastic buttons for HK (hot key), Start and Select<br>
 1 Printed Circuit Board<br>
 1 10,000mAh high capacity battery<br>
+1 Raspberry Pi Zero 2w single board computer<br>
+1 LCD Driver board<br>
+2 Wire connectors with 2mm white connector on end<br>
+1 Speaker<br>
+2 Right angle tactile buttons with red tips for Left/Right buttons<br>
+1 100ohm resistor<br>
+1 LED<br>
+1 6 pin power switch<br>
+1 40 pin header for Raspberry Pi Zero 2w<br>
+1 purple audio amp PCB<br>
+1 DC-DC voltage converter board<br>
+1 USB battery charger PCB<br>
+1 1500uF electrolytic capacitor<br>
+8 single stand off pins for audio amp, DC-DC converter, and USB charger<br>
+2 pairs of 2 pin stand-off pins for the USB charger PCB<br>
+2 HDMI connectors<br>
+1 Black flat ribbon cable for HDMI connectors<br>
+1 SD card with Replay-7-Zero OS installed and ready to play<br>
+
 
 
 ### Short note about best practice soldering a Printed Circuit board<br>
