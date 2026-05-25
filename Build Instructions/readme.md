@@ -269,3 +269,26 @@ The pins on the flat cable will be upwards so you can see the metal pins of the 
 When the cable is seated as far in as it can go, close the connector by folding it back down<br>
 
 ### Assembling the Replay-7-Zero<br>
+For easier assembly, find something to lift the case up off the table slightly but still supported<br>
+Place the case so the front is on the table and the bottom of the case is close to you<br>
+Make sure none of the button or controllers are blocked so they can fit into the case<br>
+Peel off the protector sheets from the plastic cover that goes before the LCD screen<br>
+You may need to wipe it down with rubbing alcohol before placing in the case to be sure it is free of debris<br>
+Next, peel off the screen protector from the LCD then place the screen into the case with the cable and driver board laying towards the bottom out of the case<br>
+Place the speaker into the speaker holder area facing down towards the table with the cable facing to the edge<br>
+Peel the backing from the small square foam pad and place it on the speaker<br>
+This prevents the speaker from contacting the CPU<br>
+Peel and place the 2 long foam strips on the LCD so they are evenly spread apart preventing the LCD and PCB from touching<br>
+Next, place the direction plastic into the right side, any direction will work<br>
+Place the rubber button over the direction pad and you will see 4 small tabs that go into the rubber<br>
+Place the START SEL black buttons into the 2 holes below the direction pad<br>
+See image below for orientation<br>
+
+<img width="1644" height="2268" alt="20260523_211118" src="https://github.com/user-attachments/assets/b4d24487-6483-46cb-aec7-0e6aacbc5450" />
+
+Place the 4 buttons A,B,X,Y into their holes. These are keyed so there is a large tab and a small tab so they won't rotate<br>
+Place the other rubbon button over the 4 plastic buttons and lock into place with the 4 small pins<br>
+Place the HK "Hot Key" black button into the hole below the rubbon button<br>
+
+<img width="1434" height="1938" alt="20260523_211115" src="https://github.com/user-attachments/assets/4b2178bc-69ef-4ba1-8e05-8c34fae79360" />
+
