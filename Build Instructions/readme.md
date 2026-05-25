@@ -315,6 +315,10 @@ See image below for how the PCB should look when mounted<br>
 <img width="2754" height="1440" alt="20260525_114602" src="https://github.com/user-attachments/assets/a23048cc-7132-4153-8377-45c47e10d7a4" />
 
 ### Install the Mid-Frame above the PCB<br>
+
+<img width="3662" height="1848" alt="20260523_211908" src="https://github.com/user-attachments/assets/63ec195b-0329-4d48-90f8-0208ae6fb934" />
+
+
 Install the mid-frame so it slides slightly under the Raspberry Pi and the 4 holes line up with the PCB<br>
 Install the 4 screws in the same manner that you did for the 8 other screws. Do not over tighten<br>
 Make sure the screw near the Raspberry Pi is all the way down so it can not touch the HDMI cable we will install shortly<br>
@@ -325,3 +329,44 @@ Each side of the cable has pins exposed at the end<br>
 On one connector, open the retaining tab and slide the cable pins DOWN into the connector<br>
 Lock the cable connector down by closing the tab<br>
 Repeat exactly for the other side, with the pins facing down on these connectors<br>
+Plug one end of the HDMI cable into the Video Driver board and let the board hang down still<br>
+
+### Plug the speaker into the speaker connector on the PCB as shown below<br>
+
+<img width="2582" height="1406" alt="20260523_211938" src="https://github.com/user-attachments/assets/df836983-605d-4285-9fa0-ab513b65c30d" />
+
+### Install the Video Driver Board onto the Mid-Frame<br>
+
+<img width="3074" height="1584" alt="20260523_212014" src="https://github.com/user-attachments/assets/d523408e-e8eb-49e1-99f3-3f876d533bf2" />
+
+Carefully lay the video driver board with a 90 degree fold into the pins of the mid frame as shown above<br>
+WARNING: Do not crease the flat ribbon cable or it could damage the LCD<br>
+Plug the power wire into the PCB near the USB connector<br>
+Plug the other end of the HDMI cable into the Raspberry Pi. Use caution or you may unclasp the HDMI flat ribbon cable when installing<br>
+
+<img width="1630" height="1814" alt="20260525_120330" src="https://github.com/user-attachments/assets/4cef77ca-0599-45f7-9250-4c07b3b031b3" />
+
+### Install the Battery<br>
+Install the battery so the text on the battery is facing down and the cable is near the slot in the mid-frame<br>
+WARNING: For next step, make sure the power switch on the Replay-7-Zero is turned off<br>
+Plug the battery into the battery connector on the PCB<br>
+Your Replay-7-Zero should now look like the image below<br>
+
+<img width="4000" height="1848" alt="20260525_120243" src="https://github.com/user-attachments/assets/42ab66ae-f7ac-4adf-9ad3-ff070dc81ff4" />
+
+### Install the SD card into the Raspberry Pi SD card slot<br>
+Install the card as shown in the picture below<br>
+
+<img width="1630" height="1814" alt="20260525_120330" src="https://github.com/user-attachments/assets/c1807b9b-29ff-48f6-a7fe-f942bafe7467" />
+
+
+### Install the back cover plate<br>
+The back cover plate is formed so it will fit snug onto the front when placed correctly. If upside down, it won't fit right<br>
+It's easier to install one of the middle countersunk screws into one of the middle screw locations first while holding the case down<br>
+Repeat for all 6 screws and you have the case closed<br>
+
+### Power up and test your Replay-7-Zero<br>
+When you power up your Replay-7-Zero you will see and HDMI message showing the LCD screen has powered up correctly<br>
+The screen may go blank and maybe flash for a bit, but eventually you should see the Recalbox OS logo appear<br>
+NOTE: IF YOU DO NOT SEE THE RECALBOX LOGO AFTER 30 SECONDS, TURN OFF THE MACHINE, OPEN UP AND CHECK YOUR HDMI CONNECTORS<br>
+Once the Replay fully boots up, you should hear the Recalbox menu music playing and you can now start your gaming adventure!<br>
