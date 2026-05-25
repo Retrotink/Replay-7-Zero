@@ -2,6 +2,20 @@
 Estimated build time: 1-3 hours depending on soldering experience<br>
 
 ### PARTS LISTING<br>
+Case front, mid-frame and back cover plate<br>
+6 countersunk screws for the case back plate<br>
+12 pan head screws for the PCB and mid-frame<br>
+1 LCD plastic protection sheet<br>
+1 LCD screen<br>
+2 strips of adhisive backed foam padding for LCD screen<br>
+1 small square adhisive backed foam padding for speaker<br>
+1 directional game pad plastic piece<br>
+4 Game buttons for ABXY<br>
+2 rubber game pads for the buttons and directions<br>
+2 Black plastic Left/Right button covers<br>
+3 smaller black plastic buttons for HK (hot key), Start and Select<br>
+1 Printed Circuit Board<br>
+1 10,000mAh high capacity battery<br>
 
 
 ### Short note about best practice soldering a Printed Circuit board<br>
