@@ -123,7 +123,7 @@ Now solder the remaining pins of the USB Charger<br>
 
 
 Once again, prop up the pcb off the table slightly so the pins can float straight when installed<br>
-Place the 7 pin header in the pcb so the longer pins are facing up<br>
+Place the yellow 7 pin header in the pcb so the longer pins are facing up<br>
 Place 2 single posts into the other end of the pcb for the amp<br>
 
 <img width="1060" height="1160" alt="20260520_093236" src="https://github.com/user-attachments/assets/364a14fc-0fb5-4418-8892-f5bb403ecdf8" />
