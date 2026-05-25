@@ -157,30 +157,61 @@ Turn pcb over and verify it is flush with pcb. It may be a little skewed, that i
 Turn back over and quickly solder the 2nd pin down<br>
 Verify the connector is good, then repeat for Battery and LCD Power<br>
 ### Power Switch<br>
+
+<img width="3652" height="2652" alt="20260521_160427" src="https://github.com/user-attachments/assets/2c0c44b2-8838-4f93-bfa1-6ea6d120b603" />
+
+
 Place the Large slide switch into the pcb so the post sticks out away from the pcb<br>
 Turn the pcb over and lay flat on the work table<br>
 Solder one pin on the switch, then turn over pcb and inspect the switch is flush still with pcb<br>
+
+<img width="1848" height="4000" alt="20260521_160527" src="https://github.com/user-attachments/assets/2a50adaa-7e61-4cb8-8729-9c72d8d09bf7" />
+
+
 Solder the remaining pins down and inspect the switch<br>
 NOTE: Make sure it is in the OFF position for testing pcb later<br>
 ### 40 pin header for RPI Zero 2<br>
+
+<img width="1404" height="1126" alt="20260521_161447" src="https://github.com/user-attachments/assets/77f9366f-9d6b-4bd8-99f2-8c3dbebd5fcb" />
+
+
 Place the 40 pin header flush onto the pcb with the longer pins pointing up<br>
 While holding the header to the pcb, turn the pcb over and lay onto your work table<br>
+
+<img width="1030" height="1640" alt="20260521_161522" src="https://github.com/user-attachments/assets/97d86372-c1ee-4e1d-9670-e8a4a41c95ba" />
+
+
 Solder one corner pin down to the pcb and then turn over and inspect that the header is flush to pcb<br>
 Turn back over and continue soldering the other pins.<br>
 NOTE: I like to solder one side, turn the board 180 degrees around and solder the other row<br>
 Inspect your part before continuing on<br>
 ### 1500uF Capacitor<br>
+
+<img width="1202" height="922" alt="20260521_162602" src="https://github.com/user-attachments/assets/df7b000f-ffa6-4684-9ae2-101747834851" />
+
+
 The large capacitor is polarized meaning there is a positive + and a negative - pin<br>
 The positive will be slightly longer, but the negative will have a - on the side of the case<br>
 Place the capacitor into the holes of the pcb, then fold it over so it is laying down within the pcb drawing<br>
-WARNING: Make sure you have the capacitor installed correctly before soldering down. If reversed, it could pop when powered up<br>
+WARNING: Make sure you have the capacitor installed correctly before soldering down. See image<br>
+
+<img width="1136" height="1094" alt="20260521_162647" src="https://github.com/user-attachments/assets/8cdb935a-622b-4dad-9fa3-904d88b1120e" />
+
+
 Turn the pcb over and solder the pins down and cut the extra length off<br>
 ### LED power light (Back side of PCB)<br>
+
+<img width="3996" height="2772" alt="20260521_160135" src="https://github.com/user-attachments/assets/716242b7-4d44-4cf3-ad97-04cdf38b2f6c" />
+
 The LED is soldered on the bottom of the pcb along with 3 tactile buttons<br>
 The anode is the + and is longer in length making it easy to identify<br>
-Push the anode pin into the hole followed by the shorter cathode pin<br>
+Push the anode (longer) pin into the + hole followed by the shorter cathode pin<br>
 Push the LED flush onto the pcb, then bend the pins slightly apart to hold the LED in place<br>
 NOTE: Make sure the LED is straight and flush so it will all fit in the case correctly<br>
+
+<img width="2740" height="2392" alt="20260521_160251" src="https://github.com/user-attachments/assets/3f7aeca7-3203-447c-895c-11c147a38b26" />
+
+
 Turn the pcb over and solder both pins down and trim the extra length off<br>
 Inspect the LED to ensure it is flush and straight as possible<br>
 ### VOLTAGE TEST (requires volt meter)<br>
@@ -191,17 +222,25 @@ TEST 2<br>
 For this test, you can unplug the USB charger, then power on the Replay-7-Zero board<br>
 The LED should be visible on the bottom side. If so, proceed to the next step<br>
 TEST 3<br>
-With your volt meter, test that voltage is between 4.7-5.1 volts. If it is within that range, power off, disconnect battery and continue build<br?
+With your volt meter, test that voltage is between 4.7-5.1 volts. If it is within that range, power off, disconnect battery and continue build<br>
 If it is lower than 4.7V, with a small flat blade screw driver, turn the screw on the DC controller counter clock wise, just a very little bit and test voltage. Try and get it slightly up to between 4.7V and no more than 5.05V.<br>
 If it is higher than 5.1V, turn the screw on the DC controller clock wise, say from 1 oclock to 2 oclock and test voltage again to get it between the acceptable value.<br>
 Once the DC voltage is set correctly, turn off the pcb, disconnect that battery.<br>
 It is recommended that you put something like a drop of finger nail polish on the screw to keep it from turning. Do not use glue!<br>
 ### Tactile switches (back side)<br>
+
+<img width="1500" height="798" alt="20260521_161114" src="https://github.com/user-attachments/assets/5e4afb6d-0d42-4a2b-9d31-da10bebb8ed4" />
+
+
 There are 3 tactile switches that mount on the back side of the board. When you put them in the pcb, you can close the pins together some so it holds onto the pcb better.<br>
 Turn the board over and solder one pin, then check to make sure button is flush<br>
+
+<img width="4560" height="2660" alt="20260521_161321" src="https://github.com/user-attachments/assets/ff6376e8-e8f7-4519-8dc9-2588181595a0" />
+
 Solder the remaining pins and repeat for the other 2 buttons<br>
 Turn the board over and continue to next step
 ### Raspberry Pi Zero 2w (rpi)<br>
+
 Place the Raspberry Pi (rpi) onto the pcb with the SD card slot closest to the edge and the chips facing up<br>
 place the mid frame brace under the rpi to help support it from sagging<br>
 <br>
@@ -211,4 +250,22 @@ While holding the rpi down flush onto the connector, solder 1 pin down on the co
 Check to make sure the rpi is still flush and level and solder another corner down, check again<br>
 Now solder all the remaining pins and check your work so no extra solder flowed onto the rpi<br>
 
+### Video Driver board power connector<br>
 
+
+<img width="1848" height="4000" alt="20260521_170459" src="https://github.com/user-attachments/assets/78df6a12-b5e8-4fe7-80c1-cdd8200c144b" />
+
+The video driver board needs a power connector wire soldered to the pcb<br>
+There is a set of 6 holes on the side of the pcb and the 2 top and bottom are for the red wire and the black wire<br>
+You can turn the pcb over onto the bottom and read 5V and GND for the 2 holes<br>
+Push the end of one wire through the correct hole and solder down that wire<br>
+Solder the other wire into the other holes so both wires match the pitcher above<br>
+
+### Connect the video driver to the LCD<br>
+Lay the LCD facing up on the table, and the video driver pcb just at the end of the flat cable<br>
+Lift the black tab of the connector on the pcb so that you can insert the cable into the connector<br>
+It opens like a door so it will swing upwards<br>
+The pins on the flat cable will be upwards so you can see the metal pins of the cable<br>
+When the cable is seated as far in as it can go, close the connector by folding it back down<br>
+
+### Assembling the Replay-7-Zero<br>
