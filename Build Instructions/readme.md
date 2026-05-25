@@ -292,3 +292,4 @@ Place the HK "Hot Key" black button into the hole below the rubbon button<br>
 
 <img width="1434" height="1938" alt="20260523_211115" src="https://github.com/user-attachments/assets/4b2178bc-69ef-4ba1-8e05-8c34fae79360" />
 
+Place the Left/Right black plastic buttons onto the red buttons on the top edge of the PCB<br>
