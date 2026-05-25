@@ -292,4 +292,36 @@ Place the HK "Hot Key" black button into the hole below the rubbon button<br>
 
 <img width="1434" height="1938" alt="20260523_211115" src="https://github.com/user-attachments/assets/4b2178bc-69ef-4ba1-8e05-8c34fae79360" />
 
-Place the Left/Right black plastic buttons onto the red buttons on the top edge of the PCB<br>
+### Left/Right Game buttons<br>
+
+Place the Left/Right black plastic buttons onto the red push buttons on the top edge of the PCB<br>
+
+### Place the main board into the case starting with the top edge at an angle<br>
+WARNING: Be careful of the on/off switch, it is fragile and can break easily<br>
+ALSO: Do not put the SD card into the Raspberry Pi until it is mounted into the case later<br>
+
+<img width="3132" height="1702" alt="20260525_114222" src="https://github.com/user-attachments/assets/f109d392-967c-4efa-ab55-b00630612373" />
+
+### Secure the mainboard to the case with the 8 screws<br>
+There are a total of 8 screws around both the direction pad and the A,B,X,Y buttons<br>
+There are 4 other holes that are used for the mid-frame, we will mount that later<br>
+While holding down the PCB<br>
+Screw one in most of the way, leaving the board loose for adjustment<br>
+Screw in another screw on the other side most of the way down<br>
+Repeat for all 8 screws, once all 8 are in, carefully tighten until just snug <br>
+WARNING: If you over tighten the screws, you could break the case post<br>
+See image below for how the PCB should look when mounted<br>
+
+<img width="2754" height="1440" alt="20260525_114602" src="https://github.com/user-attachments/assets/a23048cc-7132-4153-8377-45c47e10d7a4" />
+
+### Install the Mid-Frame above the PCB<br>
+Install the mid-frame so it slides slightly under the Raspberry Pi and the 4 holes line up with the PCB<br>
+Install the 4 screws in the same manner that you did for the 8 other screws. Do not over tighten<br>
+Make sure the screw near the Raspberry Pi is all the way down so it can not touch the HDMI cable we will install shortly<br>
+
+### HDMI Cable assembly<br>
+There are 2 connectors and one short flat ribbon cable<br>
+Each side of the cable has pins exposed at the end<br>
+On one connector, open the retaining tab and slide the cable pins DOWN into the connector<br>
+Lock the cable connector down by closing the tab<br>
+Repeat exactly for the other side, with the pins facing down on these connectors<br>
