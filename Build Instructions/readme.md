@@ -48,7 +48,7 @@ Tin your iron by applying a small amount of solder directly to the iron<br>
 Clean tip, leaving just a light coating of solder on iron tip<br>
 ### Speaker wire connector<br>
 The speaker comes with wire we do not use<br>
-Using a utility knife or flat blade screwdriver, scrape covering of the connector<br>
+Using a utility knife or flat blade screwdriver, scrape off the covering of the connector<br>
 
 <img width="610" height="344" alt="image" src="https://github.com/user-attachments/assets/958e23df-e27e-4931-9dc5-adfae2cf2e74" />
 
