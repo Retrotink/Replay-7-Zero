@@ -413,4 +413,5 @@ Repeat for all 6 screws and you have the case closed<br>
 When you power up your Replay-7-Zero you will see and HDMI message showing the LCD screen has powered up correctly<br>
 The screen may go blank and maybe flash for a bit, but eventually you should see the Recalbox OS logo appear<br>
 NOTE: IF YOU DO NOT SEE THE RECALBOX LOGO AFTER 30 SECONDS, TURN OFF THE MACHINE, OPEN UP AND CHECK YOUR HDMI CONNECTORS<br>
-Once the Replay fully boots up, you should hear the Recalbox menu music playing and you can now start your gaming adventure!<br>
+Once the Replay fully boots up, you should see the console system options and hear the Recalbox menu music playing<br>
+You can now start your gaming adventure!<br>
