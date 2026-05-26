@@ -1,5 +1,8 @@
 # Replay 7-Zero Build Instructions<br>
 Estimated build time: 1-3 hours depending on soldering experience<br>
+Here is a build video of the replay-7-zero<br>
+https://www.youtube.com/watch?v=v-NI67v-3I0
+
 
 ### PARTS LISTING<br>
 Case front, mid-frame and back cover plate<br>
