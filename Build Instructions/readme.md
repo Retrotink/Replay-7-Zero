@@ -70,7 +70,8 @@ Red wire goes to + side and black wire goes to - side<br>
 
 ### Resistor<br>
 
-<img width="2564" height="3680" alt="20260520_092301" src="https://github.com/user-attachments/assets/e512aa12-05a0-428b-bc3a-b30985c3027d" />
+<img width="62" height="90" alt="Screenshot 2026-05-27 075253" src="https://github.com/user-attachments/assets/0d0740df-33e3-47ac-97a0-382f3f9a11eb" />
+
 
 
 Make U shaped bend to the resistor close to the body of the resistor<br>
