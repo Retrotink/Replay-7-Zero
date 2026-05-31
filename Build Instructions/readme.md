@@ -4,6 +4,9 @@ Here is a build video of the replay-7-zero<br>
 
 https://www.youtube.com/watch?v=gylts5yvYMM
 
+<br>
+Any questions you can reach Vince at vbriel@yahoo.com<br>
+<br>
 
 ### PARTS LISTING<br>
 Case front, mid-frame and back cover plate<br>
