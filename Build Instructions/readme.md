@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=gylts5yvYMM
 
 <br>
 Any questions you can reach Vince at vbriel@yahoo.com<br>
+or John at duncofixit@gmail.com
 <br>
 
 ### PARTS LISTING<br>
